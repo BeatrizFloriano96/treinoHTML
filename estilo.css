@@ -1,0 +1,15 @@
+h1{
+    color: rgb(255, 0, 0);
+}
+body{
+    text-align: justify;
+    width: 70%;  
+    padding-left: 250px;     
+}
+footer{
+    text-align: center;
+}
+
+#imagem{
+    padding-left: 120px;
+}
